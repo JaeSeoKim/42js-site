@@ -1,0 +1,68 @@
+[
+  {
+    "name": "beta-pisciner",
+    "title": "JS Piscine Beta",
+    "certificateDesc": "This certificate is presented for\nsuccessful participation in the 42JS Beta Pisciner",
+    "startDate": "2021-08-16",
+    "endDate": "2021-09-01",
+    "completionDate": "2021-09-02",
+    "pisciner": [
+      {
+        "name": "test",
+        "githubId": "test",
+        "intraId": "test",
+        "email": "test@test.test"
+      }
+    ],
+    "staff": [
+      {
+        "name": "Sungwoo Park",
+        "githubId": "cos18",
+        "intraId": "sunpark",
+        "email": "codest99@gmail.com",
+        "role": ["총괄 리더", "제작", "운영"],
+        "subjects": ["JS00", "JS02", "FE02", "RUSH01"]
+      },
+      {
+        "name": "Jaeseo Kim",
+        "githubId": "JaeSeoKim",
+        "intraId": "jaeskim",
+        "email": "devjaeseo@gmail.com",
+        "role": ["진행 리더", "제작", "운영"],
+        "subjects": ["JS02", "BE00", "BE02", "RUSH00"]
+      },
+      {
+        "name": "Hochan Lee",
+        "githubId": "hochan222",
+        "intraId": "holee",
+        "email": "hochan049@gmail.com",
+        "role": ["제작", "운영"],
+        "subjects": ["JS00", "FE03", "RUSH00"]
+      },
+      {
+        "name": "Jeongjun Kim",
+        "githubId": "jekim",
+        "intraId": "Two-Jay",
+        "email": "djeeee1272@gmail.com",
+        "role": ["제작", "운영"],
+        "subjects": ["JS00", "BE00", "BE03", "RUSH01"]
+      },
+      {
+        "name": "Sarang Choi",
+        "githubId": "srngch",
+        "intraId": "sarchoi",
+        "email": "srngch.dev@gmail.com",
+        "role": ["제작", "운영"],
+        "subjects": ["JS01", "BE00", "BE01", "RUSH01"]
+      },
+      {
+        "name": "Seonghee Jin",
+        "githubId": "MichelleJin12",
+        "intraId": "sejin",
+        "email": "shjy180909@gmail.com",
+        "role": ["제작", "운영"],
+        "subjects": ["JS01", "FE00", "FE01", "RUSH00"]
+      }
+    ]
+  }
+]
