@@ -3,6 +3,12 @@
   <p>...설명 추가 필요...</p>
 </div>
 
+## Stack
+
+- Next.js
+- TypeScript
+- Asynchronous HTTP microservices base API
+
 ## API 명세
 
 - /api/v1
