@@ -1,6 +1,6 @@
 import ReactDomServer from "react-dom/server";
 import type { NextApiRequest, NextApiResponse } from "next";
-import Certificate from "../../../../../src/component/Certificate";
+import Certificate from "../../../../../component/Certificate";
 import data from "../../../../../hall_of_frame.json";
 
 export default async (request: NextApiRequest, response: NextApiResponse) => {

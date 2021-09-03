@@ -1,0 +1,111 @@
+.wrapper {
+  @apply block relative pt-14;
+}
+
+.header {
+  @apply fixed;
+  @apply z-10;
+  @apply top-0;
+  @apply left-0;
+  @apply w-full;
+  @apply h-14;
+  @apply select-none;
+  @apply transition-colors duration-500;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(16px) saturate(180%);
+}
+
+@keyframes slideInDown {
+  from {
+    transform: translate3d(0, -100%, 0);
+    visibility: visible;
+  }
+
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes slideOutUp {
+  from {
+    transform: translate3d(0, 0, 0);
+    visibility: visible;
+  }
+
+  to {
+    transform: translate3d(0, -100%, 0);
+    visibility: hidden;
+  }
+}
+
+.test {
+  background: rgba(255, 255, 255, 0);
+  backdrop-filter: initial;
+}
+
+.borderBottom {
+  border-bottom: 1px solid rgba(209, 213, 219, 0.3);
+}
+
+.slideIn {
+  animation: slideInDown 200ms;
+}
+
+.slideOut {
+  animation: slideOutUp 200ms forwards;
+}
+
+.container {
+  @apply flex;
+  @apply items-center;
+  @apply justify-between;
+  @apply h-full;
+  @apply mx-auto;
+  @apply max-w-screen-lg;
+  @apply px-4;
+  @screen xl {
+    @apply px-2;
+  }
+}
+
+.title {
+  @apply text-xl;
+  @apply font-bold;
+  @apply whitespace-nowrap;
+}
+
+.nav {
+  @apply flex-row-reverse;
+  @apply w-full;
+  @apply mr-4;
+  @apply my-auto;
+  @apply hidden;
+
+  @screen md {
+    @apply flex;
+  }
+
+  & > a {
+    @apply text-gray-500;
+    @apply text-base;
+    @apply font-semibold;
+    @apply uppercase;
+    @apply mx-2;
+
+    &:hover {
+      @apply text-gray-700;
+    }
+  }
+}
+
+.themButton {
+  @apply hidden;
+
+  @screen md {
+    @apply block;
+  }
+  svg {
+    @apply transition-colors;
+    @apply duration-200;
+  }
+}

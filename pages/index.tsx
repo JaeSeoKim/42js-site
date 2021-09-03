@@ -1,7 +1,14 @@
-export default function Home() {
-  return (
-    <div style={{ display: "flex", justifyContent: "center" }}>
-      <h1>Hello 42JS!</h1>
-    </div>
-  );
-}
+import { GetStaticPropsContext } from "next";
+import React from "react";
+
+export const getStaticProps = async (_ctx: GetStaticPropsContext) => {
+  return {
+    redirect: {
+      destination: "https://github.com/42js",
+    },
+  };
+};
+
+const Home = () => <React.Fragment />;
+
+export default Home;

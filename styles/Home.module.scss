@@ -1,0 +1,37 @@
+.container {
+  @apply min-h-screen;
+}
+
+.landing {
+  @apply h-screen;
+  @apply flex flex-col items-center;
+
+  background-image: url("../assets/svg/wave.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+
+  @screen md {
+    padding-top: 15vh;
+  }
+}
+
+.landingContent {
+  @apply mt-12 mx-4;
+}
+
+.landingContentTitle {
+  @apply text-2xl font-semibold text-center;
+
+  h1 {
+    @apply text-3xl mb-4;
+  }
+
+  @screen md {
+    @apply text-4xl;
+
+    h1 {
+      @apply text-6xl;
+    }
+  }
+}
