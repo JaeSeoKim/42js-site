@@ -133,8 +133,8 @@
       },
       {
         "name": "Jeongjun Kim",
-        "githubId": "jekim",
-        "intraId": "Two-Jay",
+        "githubId": "Two-Jay",
+        "intraId": "jekim",
         "email": "djeeee1272@gmail.com",
         "role": ["제작", "운영"],
         "subjects": ["JS00", "BE00", "BE03", "RUSH01"]
