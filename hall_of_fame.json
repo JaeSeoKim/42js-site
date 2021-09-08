@@ -1,0 +1,160 @@
+[
+  {
+    "name": "js-piscine-beta",
+    "title": "JS Piscine Beta",
+    "certificateDesc": "This certificate is presented for\nsuccessful participation in the JS Piscine Beta",
+    "startDate": "2021-08-16",
+    "endDate": "2021-09-01",
+    "completionDate": "2021-09-02",
+    "pisciner": [
+      {
+        "name": "Jonghyun Lim",
+        "githubId": "evelon",
+        "intraId": "jolim",
+        "email": "ezemango@gmail.com",
+        "type": "success"
+      },
+      {
+        "name": "Kunhee Lee",
+        "githubId": "leekh716",
+        "intraId": "kunlee",
+        "email": "42.4.kunlee@gmail.com",
+        "type": "success"
+      },
+      {
+        "name": "Hanna Kim",
+        "githubId": "Kimhan-nah",
+        "intraId": "hannkim",
+        "email": "42.4.hannkim@gmail.com",
+        "type": "success"
+      },
+      {
+        "name": "Seonkyeong Moon",
+        "githubId": "from97",
+        "intraId": "seomoon",
+        "email": "skm1104@daum.net",
+        "type": "success"
+      },
+      {
+        "name": "Hyeonji Jung",
+        "githubId": "Hyeonji-Jung",
+        "intraId": "hyeojung",
+        "email": "welloff.jj@gmail.com",
+        "type": "success"
+      },
+      {
+        "name": "Yena Jeong",
+        "githubId": "yenowme",
+        "intraId": "yejeong",
+        "email": "welloff.jj@gmail.com",
+        "type": "success"
+      },
+      {
+        "name": "Giyoung Lee",
+        "githubId": "weg901127",
+        "intraId": "gilee",
+        "email": "gilee@student.42seoul.kr",
+        "type": "participant"
+      },
+      {
+        "name": "Hyunji Yoon",
+        "githubId": "kamg2218",
+        "intraId": "hyoon",
+        "email": "gilee@student.42seoul.kr",
+        "type": "participant"
+      },
+      {
+        "name": "Jieun Kwon",
+        "githubId": "blbbyk",
+        "intraId": "jikwon",
+        "email": "jikwon@student.42seoul.kr",
+        "type": "participant"
+      },
+      {
+        "name": "Nahyun Kim",
+        "githubId": "hyunn2",
+        "intraId": "nahkim",
+        "email": "42nahkim@gmail.com",
+        "type": "participant"
+      },
+      {
+        "name": "Seongsu Kim",
+        "githubId": "nfl1ryxditimo12",
+        "intraId": "seonkim",
+        "email": "vollz2g@gmail.com",
+        "type": "participant"
+      },
+      {
+        "name": "Sungyong Cho",
+        "githubId": "sungyongcho",
+        "intraId": "sucho",
+        "email": "sucho@student.42seoul.kr",
+        "type": "participant"
+      },
+      {
+        "name": "Nayeon Kim",
+        "githubId": "Chloekkk",
+        "intraId": "nkim",
+        "email": "42.4.nkim@gmail.com",
+        "type": "participant"
+      },
+      {
+        "name": "Inho Ha",
+        "githubId": "hainho",
+        "intraId": "iha",
+        "email": "hainho9704@gmail.com",
+        "type": "participant"
+      }
+    ],
+    "staff": [
+      {
+        "name": "Sungwoo Park",
+        "githubId": "cos18",
+        "intraId": "sunpark",
+        "email": "codest99@gmail.com",
+        "role": ["총괄 리더", "제작", "운영"],
+        "subjects": ["JS00", "JS02", "FE02", "RUSH01"]
+      },
+      {
+        "name": "Jaeseo Kim",
+        "githubId": "JaeSeoKim",
+        "intraId": "jaeskim",
+        "email": "devjaeseo@gmail.com",
+        "role": ["진행 리더", "제작", "운영"],
+        "subjects": ["JS02", "BE00", "BE02", "RUSH00"]
+      },
+      {
+        "name": "Hochan Lee",
+        "githubId": "hochan222",
+        "intraId": "holee",
+        "email": "hochan049@gmail.com",
+        "role": ["제작", "운영"],
+        "subjects": ["JS00", "FE03", "RUSH00"]
+      },
+      {
+        "name": "Jeongjun Kim",
+        "githubId": "jekim",
+        "intraId": "Two-Jay",
+        "email": "djeeee1272@gmail.com",
+        "role": ["제작", "운영"],
+        "subjects": ["JS00", "BE00", "BE03", "RUSH01"]
+      },
+      {
+        "name": "Sarang Choi",
+        "githubId": "srngch",
+        "intraId": "sarchoi",
+        "email": "srngch.dev@gmail.com",
+        "role": ["제작", "운영"],
+        "subjects": ["JS01", "BE00", "BE01", "RUSH01"]
+      },
+      {
+        "name": "Seonghee Jin",
+        "githubId": "MichelleJin12",
+        "intraId": "sejin",
+        "email": "shjy180909@gmail.com",
+        "role": ["제작", "운영"],
+        "subjects": ["JS01", "FE00", "FE01", "RUSH00"]
+      }
+    ]
+  }
+]

@@ -1,7 +1,7 @@
 import ReactDomServer from "react-dom/server";
 import type { NextApiRequest, NextApiResponse } from "next";
 import Certificate from "../../../../../../component/Certificate";
-import data from "../../../../../../hall_of_frame.json";
+import data from "../../../../../../hall_of_fame.json";
 
 export default async (request: NextApiRequest, response: NextApiResponse) => {
   const { course, intraId } = request.query as {
